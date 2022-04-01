@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![][Prework - Win](https://user-images.githubusercontent.com/102540980/160741863-b241b3c3-5700-4072-9027-597c836abde3.gif)
+![](https://user-images.githubusercontent.com/102540980/160741863-b241b3c3-5700-4072-9027-597c836abde3.gif)
 
 ![][Prework - 3 Mistakes](https://user-images.githubusercontent.com/102540980/160741784-9c0ef9df-85b8-4076-acde-d5056977bd4a.gif)
 
