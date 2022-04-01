@@ -39,9 +39,12 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
-![](gif2-link-here)
-![](gif3-link-here)
+![][Prework - Win](https://user-images.githubusercontent.com/102540980/160741863-b241b3c3-5700-4072-9027-597c836abde3.gif)
+
+![][Prework - 3 Mistakes](https://user-images.githubusercontent.com/102540980/160741784-9c0ef9df-85b8-4076-acde-d5056977bd4a.gif)
+
+![][Prework - Different Patterns](https://user-images.githubusercontent.com/102540980/160741821-cd2afb83-a9ba-4f2c-be17-503c3d4db2e8.gif)
+
 ![](gif4-link-here)
 
 ## Reflection Questions
@@ -71,7 +74,7 @@ I would also change the colors of the buttons for each game to increase the diff
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://youtu.be/hcfSYm0eut0)
 
 
 ## License
