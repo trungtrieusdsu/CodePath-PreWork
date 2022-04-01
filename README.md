@@ -45,7 +45,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ![][Prework - Different Patterns](https://user-images.githubusercontent.com/102540980/160741821-cd2afb83-a9ba-4f2c-be17-503c3d4db2e8.gif)
 
-![](gif4-link-here)
+![](https://user-images.githubusercontent.com/102540980/160741821-cd2afb83-a9ba-4f2c-be17-503c3d4db2e8.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
