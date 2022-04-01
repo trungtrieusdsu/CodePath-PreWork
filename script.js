@@ -128,7 +128,8 @@ function guess(btn){
   
   else { 
     if (btn != pattern[guessCounter]) { 
-      mistake++; 
+      mistake++;
+      console.log(mistake + " mistakes made.");
       if (mistake == max_mistakes) {
         loseGame();
       }
