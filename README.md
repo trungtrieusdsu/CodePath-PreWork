@@ -41,11 +41,10 @@ The following **additional** features are implemented:
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![](https://user-images.githubusercontent.com/102540980/160741863-b241b3c3-5700-4072-9027-597c836abde3.gif)
 
-![][Prework - 3 Mistakes](https://user-images.githubusercontent.com/102540980/160741784-9c0ef9df-85b8-4076-acde-d5056977bd4a.gif)
-
-![][Prework - Different Patterns](https://user-images.githubusercontent.com/102540980/160741821-cd2afb83-a9ba-4f2c-be17-503c3d4db2e8.gif)
+![](https://user-images.githubusercontent.com/102540980/160741784-9c0ef9df-85b8-4076-acde-d5056977bd4a.gif)
 
 ![](https://user-images.githubusercontent.com/102540980/160741821-cd2afb83-a9ba-4f2c-be17-503c3d4db2e8.gif)
+
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
